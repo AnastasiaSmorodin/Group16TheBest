@@ -5,5 +5,4 @@ public class Anastasia {
         System.out.println("try it");
         System.out.println("ok");
     }
-
 }
